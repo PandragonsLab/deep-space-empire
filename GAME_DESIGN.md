@@ -77,7 +77,7 @@ Titans:       Unique, game-changing superweapons
 TIER 1 - RAW MATERIALS (18 types):
 ├─ Common: Iron, Silicon, Carbon compounds
 ├─ Uncommon: Titanium, Lithium, Rare earth elements
-└─ Rare: Tritium, Zero-point energy, Quantum foam
+└─ Rare: Fusion Fuel, Void energy, Quantum foam
 
 TIER 2 - REFINED MATERIALS (34 types):
 ├─ Processed metals, polymers, ceramics
